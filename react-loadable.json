@@ -3,214 +3,214 @@
     {
       "id": 524,
       "name": "./src/components/hackerNews/HackerNews.js",
-      "file": "static/js/hackernews.b364af1e.chunk.js",
-      "publicPath": "/static/js/hackernews.b364af1e.chunk.js"
+      "file": "static/js/hackernews.65286cf6.chunk.js",
+      "publicPath": "/static/js/hackernews.65286cf6.chunk.js"
     },
     {
       "id": 524,
       "name": "./src/components/hackerNews/HackerNews.js",
-      "file": "static/js/hackernews.b364af1e.chunk.js.map",
-      "publicPath": "/static/js/hackernews.b364af1e.chunk.js.map"
+      "file": "static/js/hackernews.65286cf6.chunk.js.map",
+      "publicPath": "/static/js/hackernews.65286cf6.chunk.js.map"
     }
   ],
   "undefined": [
     {
       "id": "",
       "name": null,
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "react": [
     {
       "id": 2,
       "name": "./node_modules/react/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 2,
       "name": "./node_modules/react/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 2,
       "name": "./node_modules/react/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "prop-types": [
     {
       "id": 13,
       "name": "./node_modules/prop-types/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 13,
       "name": "./node_modules/prop-types/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 13,
       "name": "./node_modules/prop-types/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "@babel/runtime/helpers/esm/extends": [
     {
       "id": 22,
       "name": "./node_modules/@babel/runtime/helpers/esm/extends.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 22,
       "name": "./node_modules/@babel/runtime/helpers/esm/extends.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 22,
       "name": "./node_modules/@babel/runtime/helpers/esm/extends.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "tiny-invariant": [
     {
       "id": 33,
       "name": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 33,
       "name": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 33,
       "name": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "history": [
     {
       "id": 34,
       "name": "./node_modules/history/esm/history.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 34,
       "name": "./node_modules/history/esm/history.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 34,
       "name": "./node_modules/history/esm/history.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "@babel/runtime/helpers/esm/inheritsLoose": [
     {
       "id": 38,
       "name": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 38,
       "name": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 38,
       "name": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "react-router": [
     {
       "id": 49,
       "name": "./node_modules/react-router/esm/react-router.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 49,
       "name": "./node_modules/react-router/esm/react-router.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 49,
       "name": "./node_modules/react-router/esm/react-router.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "@babel/runtime/helpers/esm/objectWithoutPropertiesLoose": [
     {
       "id": 62,
       "name": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 62,
       "name": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 62,
       "name": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "./../../webpack/buildin/global.js": [
     {
       "id": 78,
       "name": "./node_modules/webpack/buildin/global.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 78,
       "name": "./node_modules/webpack/buildin/global.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 78,
       "name": "./node_modules/webpack/buildin/global.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     },
     {
       "id": 78,
@@ -229,480 +229,480 @@
     {
       "id": 99,
       "name": "./node_modules/object-assign/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 99,
       "name": "./node_modules/object-assign/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 99,
       "name": "./node_modules/object-assign/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "react-loadable": [
     {
       "id": 100,
       "name": "./node_modules/react-loadable/lib/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 100,
       "name": "./node_modules/react-loadable/lib/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 100,
       "name": "./node_modules/react-loadable/lib/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "react-router-dom": [
     {
       "id": 125,
       "name": "./node_modules/react-router-dom/esm/react-router-dom.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 125,
       "name": "./node_modules/react-router-dom/esm/react-router-dom.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 125,
       "name": "./node_modules/react-router-dom/esm/react-router-dom.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "@babel/runtime/helpers/inheritsLoose": [
     {
       "id": 126,
       "name": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 126,
       "name": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 126,
       "name": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "path-to-regexp": [
     {
       "id": 127,
       "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 127,
       "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 127,
       "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "react-is": [
     {
       "id": 177,
       "name": "./node_modules/react-is/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 177,
       "name": "./node_modules/react-is/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 177,
       "name": "./node_modules/react-is/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "./state/serverDataContext": [
     {
       "id": 178,
       "name": "./src/state/serverDataContext.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 178,
       "name": "./src/state/serverDataContext.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 178,
       "name": "./src/state/serverDataContext.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "react-dom": [
     {
       "id": 179,
       "name": "./node_modules/react-dom/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 179,
       "name": "./node_modules/react-dom/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 179,
       "name": "./node_modules/react-dom/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "react-helmet": [
     {
       "id": 180,
       "name": "./node_modules/react-helmet/es/Helmet.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 180,
       "name": "./node_modules/react-helmet/es/Helmet.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 180,
       "name": "./node_modules/react-helmet/es/Helmet.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "react-side-effect": [
     {
       "id": 181,
       "name": "./node_modules/react-side-effect/lib/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 181,
       "name": "./node_modules/react-side-effect/lib/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 181,
       "name": "./node_modules/react-side-effect/lib/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "react-fast-compare": [
     {
       "id": 182,
       "name": "./node_modules/react-fast-compare/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 182,
       "name": "./node_modules/react-fast-compare/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 182,
       "name": "./node_modules/react-fast-compare/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "gud": [
     {
       "id": 183,
       "name": "./node_modules/gud/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 183,
       "name": "./node_modules/gud/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 183,
       "name": "./node_modules/gud/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "hoist-non-react-statics": [
     {
       "id": 184,
       "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 184,
       "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 184,
       "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "E:\\hackerNews\\src\\index.js": [
     {
       "id": 513,
       "name": "./src/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 513,
       "name": "./src/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 513,
       "name": "./src/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "./cjs/react.production.min.js": [
     {
       "id": 514,
       "name": "./node_modules/react/cjs/react.production.min.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 514,
       "name": "./node_modules/react/cjs/react.production.min.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 514,
       "name": "./node_modules/react/cjs/react.production.min.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "./cjs/react-dom.production.min.js": [
     {
       "id": 515,
       "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 515,
       "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 515,
       "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "scheduler": [
     {
       "id": 516,
       "name": "./node_modules/scheduler/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 516,
       "name": "./node_modules/scheduler/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 516,
       "name": "./node_modules/scheduler/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "./cjs/scheduler.production.min.js": [
     {
       "id": 517,
       "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 517,
       "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 517,
       "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "./factoryWithThrowingShims": [
     {
       "id": 518,
       "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 518,
       "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 518,
       "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "./lib/ReactPropTypesSecret": [
     {
       "id": 519,
       "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 519,
       "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 519,
       "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "isarray": [
     {
       "id": 520,
       "name": "./node_modules/react-router/node_modules/isarray/index.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 520,
       "name": "./node_modules/react-router/node_modules/isarray/index.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 520,
       "name": "./node_modules/react-router/node_modules/isarray/index.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "./cjs/react-is.production.min.js": [
     {
       "id": 521,
       "name": "./node_modules/react-is/cjs/react-is.production.min.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 521,
       "name": "./node_modules/react-is/cjs/react-is.production.min.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 521,
       "name": "./node_modules/react-is/cjs/react-is.production.min.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "./styles/index.scss": [
     {
       "id": 522,
       "name": "./src/styles/index.scss",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 522,
       "name": "./src/styles/index.scss",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 522,
       "name": "./src/styles/index.scss",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "./main": [
     {
       "id": 523,
       "name": "./src/main.js",
-      "file": "static/css/main.20929dbe.css",
-      "publicPath": "/static/css/main.20929dbe.css"
+      "file": "static/css/main.a94a30dc.css",
+      "publicPath": "/static/css/main.a94a30dc.css"
     },
     {
       "id": 523,
       "name": "./src/main.js",
-      "file": "static/js/main.476371f9.js",
-      "publicPath": "/static/js/main.476371f9.js"
+      "file": "static/js/main.f66069b6.js",
+      "publicPath": "/static/js/main.f66069b6.js"
     },
     {
       "id": 523,
       "name": "./src/main.js",
-      "file": "static/js/main.476371f9.js.map",
-      "publicPath": "/static/js/main.476371f9.js.map"
+      "file": "static/js/main.f66069b6.js.map",
+      "publicPath": "/static/js/main.f66069b6.js.map"
     }
   ],
   "../internals/export": [
@@ -7569,154 +7569,210 @@
     {
       "id": 525,
       "name": "./node_modules/@babel/runtime/helpers/defineProperty.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
       "id": 525,
       "name": "./node_modules/@babel/runtime/helpers/defineProperty.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ],
   "unfetch": [
     {
       "id": 526,
       "name": "./node_modules/unfetch/dist/unfetch.mjs",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
       "id": 526,
       "name": "./node_modules/unfetch/dist/unfetch.mjs",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
+    }
+  ],
+  "@babel/runtime/helpers/toConsumableArray": [
+    {
+      "id": 527,
+      "name": "./node_modules/@babel/runtime/helpers/toConsumableArray.js",
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
+    },
+    {
+      "id": 527,
+      "name": "./node_modules/@babel/runtime/helpers/toConsumableArray.js",
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
+    }
+  ],
+  "./arrayWithoutHoles": [
+    {
+      "id": 528,
+      "name": "./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
+    },
+    {
+      "id": 528,
+      "name": "./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
+    }
+  ],
+  "./iterableToArray": [
+    {
+      "id": 529,
+      "name": "./node_modules/@babel/runtime/helpers/iterableToArray.js",
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
+    },
+    {
+      "id": 529,
+      "name": "./node_modules/@babel/runtime/helpers/iterableToArray.js",
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
+    }
+  ],
+  "./nonIterableSpread": [
+    {
+      "id": 530,
+      "name": "./node_modules/@babel/runtime/helpers/nonIterableSpread.js",
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
+    },
+    {
+      "id": 530,
+      "name": "./node_modules/@babel/runtime/helpers/nonIterableSpread.js",
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ],
   "@babel/runtime/helpers/slicedToArray": [
     {
-      "id": 527,
+      "id": 531,
       "name": "./node_modules/@babel/runtime/helpers/slicedToArray.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
-      "id": 527,
+      "id": 531,
       "name": "./node_modules/@babel/runtime/helpers/slicedToArray.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ],
   "./arrayWithHoles": [
     {
-      "id": 528,
+      "id": 532,
       "name": "./node_modules/@babel/runtime/helpers/arrayWithHoles.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
-      "id": 528,
+      "id": 532,
       "name": "./node_modules/@babel/runtime/helpers/arrayWithHoles.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ],
   "./iterableToArrayLimit": [
     {
-      "id": 529,
+      "id": 533,
       "name": "./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
-      "id": 529,
+      "id": 533,
       "name": "./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ],
   "./nonIterableRest": [
     {
-      "id": 530,
+      "id": 534,
       "name": "./node_modules/@babel/runtime/helpers/nonIterableRest.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
-      "id": 530,
+      "id": 534,
       "name": "./node_modules/@babel/runtime/helpers/nonIterableRest.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ],
   "react-charts": [
     {
-      "id": 531,
+      "id": 535,
       "name": "./node_modules/react-charts/index.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
-      "id": 531,
+      "id": 535,
       "name": "./node_modules/react-charts/index.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ],
   "./dist/react-charts.production.min.js": [
     {
-      "id": 532,
+      "id": 536,
       "name": "./node_modules/react-charts/dist/react-charts.production.min.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
-      "id": 532,
+      "id": 536,
       "name": "./node_modules/react-charts/dist/react-charts.production.min.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ],
   "performance-now": [
     {
-      "id": 533,
+      "id": 537,
       "name": "./node_modules/performance-now/lib/performance-now.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
-      "id": 533,
+      "id": 537,
       "name": "./node_modules/performance-now/lib/performance-now.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ],
   "./../../process/browser.js": [
     {
-      "id": 534,
+      "id": 538,
       "name": "./node_modules/process/browser.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
-      "id": 534,
+      "id": 538,
       "name": "./node_modules/process/browser.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ],
   "isomorphic-unfetch": [
     {
-      "id": 535,
+      "id": 539,
       "name": "./node_modules/isomorphic-unfetch/browser.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js"
     },
     {
-      "id": 535,
+      "id": 539,
       "name": "./node_modules/isomorphic-unfetch/browser.js",
-      "file": "static/js/vendors~hackernews.d0f7cfa0.chunk.js.map",
-      "publicPath": "/static/js/vendors~hackernews.d0f7cfa0.chunk.js.map"
+      "file": "static/js/vendors~hackernews.511e5609.chunk.js.map",
+      "publicPath": "/static/js/vendors~hackernews.511e5609.chunk.js.map"
     }
   ]
 }
