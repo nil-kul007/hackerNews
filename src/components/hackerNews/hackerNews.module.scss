@@ -1,0 +1,29 @@
+@import '../../styles/colors';
+
+.hacker-news{
+    .hn-title {
+        text-align: center;
+    }
+    .upvote {
+        width: 10px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .text-center {
+        text-align: center;
+    }
+    
+    table { width: 100%;}
+    thead { 
+        tr { 
+            background-color: #ff7600 !important; 
+            color: #ffffff;
+        }
+    }
+    tr:nth-child(even) {background: #CCC}
+    tr:nth-child(odd) {background: #FFF}
+    tr { height: 35px;}
+    .navigation { float: right;}
+    .chart-data { margin-top: 60px;}
+}
