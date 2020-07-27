@@ -2,19 +2,22 @@
   "name": "hacker-news",
   "version": "5.1.0",
   "private": true,
+  "homepage": "http://nil-kul007.github.io/hackerNews",
   "engines": {
     "node": ">=10.15"
   },
   "scripts": {
-    "start": "node scripts/start.js",
+    "start:local": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
-    "start:prod": "node scripts/startProd.js",
+    "start": "node scripts/startProd.js",
     "lint": "eslint src/**/*.js",
     "format": "prettier --write \"src/**/*.{js,json,css,md}\"",
     "docker:build": "docker build --rm -t cullenjett/hackerNews .",
     "docker:start": "docker run --rm -it -p 3000:3000 cullenjett/hackerNews",
-    "docker": "npm run docker:build && npm run docker:start"
+    "docker": "npm run docker:build && npm run docker:start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "husky": {
     "hooks": {
@@ -97,5 +100,8 @@
     "webpack-hot-middleware": "^2.25.0",
     "webpack-manifest-plugin": "^2.0.4",
     "webpack-node-externals": "^1.7.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
