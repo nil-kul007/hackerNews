@@ -1,7 +1,7 @@
 export function hnApi(http) {
   return {
     all: page => {
-      return http.get(`?page=${page}`);
+      return http.get(`?tags=story&page=${page}`);
     },
 
     create: (newHN, page) => {
