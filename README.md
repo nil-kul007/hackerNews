@@ -19,7 +19,7 @@
 
 ## Development
 
-- `npm start`
+- `npm run start:local`
   - Start the dev server at [http://localhost:3000](http://localhost:3000)
 - `npm test`
   - Start `jest` in watch mode
